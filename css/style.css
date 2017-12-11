@@ -1,0 +1,120 @@
+/*
+Dark Purple #6B12B2
+Light Purple #8E00FF
+Orange #FFA819
+Light Green #14CC5C
+Dark Green #09B24B
+*/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #FFF;
+  background-color: #333;
+}
+
+
+/* Navbar */
+
+.navbar-header img {
+  padding: 0;
+  margin: 0;
+  max-height: 20px;
+}
+
+
+/* Headers */
+
+.div-header-chunk {
+  background-image: url(../img/dmf.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  align-items: center;
+  padding: 15px 5px 15px 5px;
+  margin: 15px 5px 15px 5px;
+  color: #FFF;
+  font-size: 2rem;
+  font-family: 'Sancreek', cursive;
+  text-shadow: 5px 5px 0px #000;
+}
+
+.div-header-chunk h1 {
+  font-size: 60px;
+  text-shadow: 5px 5px 0px #000;
+}
+
+.div-header-chunk-2 {
+  background-image: url(../img/dmf_ingame.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  align-items: center;
+  padding: 15px 5px 15px 5px;
+  margin: 15px 5px 15px 5px;
+  color: #FFF;
+  font-size: 2rem;
+  font-family: 'Sancreek', cursive;
+  text-shadow: 5px 5px 0px #000;
+}
+
+.div-header-chunk-2 h1 {
+  font-size: 60px;
+  text-shadow: 5px 5px 0px #000;
+}
+
+.div-header-chunk-3 {
+  background-image: url(../img/elves.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  align-items: center;
+  padding: 15px 5px 15px 5px;
+  margin: 15px 5px 15px 5px;
+  color: #FFF;
+  font-size: 2rem;
+  font-family: 'Sancreek', cursive;
+  text-shadow: 5px 5px 0px #000;
+}
+
+.div-header-chunk-3 h1 {
+  font-size: 60px;
+  text-shadow: 5px 5px 0px #000;
+}
+
+.div-header-chunk-4 {
+  background-image: url(../img/alliance.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  align-items: center;
+  padding: 15px 5px 15px 5px;
+  margin: 15px 5px 15px 5px;
+  color: #FFF;
+  font-size: 2rem;
+  font-family: 'Sancreek', cursive;
+  text-shadow: 5px 5px 0px #000;
+}
+
+.div-header-chunk-4 h1 {
+  font-size: 60px;
+  text-shadow: 5px 5px 0px #000;
+}
+
+.footer {
+  background-color: #222;
+  padding-top: 18px;
+}
+
+/* Media */
+
+.media {
+  padding: 10px 0px 10px 0px;
+}
+
+.media img {
+  max-height: 200px;
+}
+
+.media h2 {
+  color: #FFA819;
+}
+
+.media h3 strong {
+  color: #14CC5C;
+}
